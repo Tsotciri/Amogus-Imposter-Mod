@@ -1,0 +1,10 @@
+{
+  "item.amogus_imposter.imposter_spawner": "Imposter",
+
+  "entity.amogus_imposter.imposter" : "The Imposter from Among Us ",
+
+  "amogus_imposter.imposter_walk_sound": "Imposter Walking",
+  "amogus_imposter.imposter_hurt_sound": "Imposter Damaged",
+  "amogus_imposter.imposter_death_sound": "Imposter Died",
+  "amogus_imposter.imposter_ambient_sound": "Run! (Imposter Nearby...)"
+}

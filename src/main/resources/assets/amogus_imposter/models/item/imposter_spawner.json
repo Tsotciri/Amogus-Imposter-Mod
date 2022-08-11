@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "amogus_imposter:item/imposter_spawner"
+  }
+}

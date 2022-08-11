@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    "#bg",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_concrete"
+    },
+
+    "g": {
+      "item": "minecraft:light_blue_stained_glass"
+    },
+
+    "b": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "amogus_imposter:imposter_spawner"
+  }
+}

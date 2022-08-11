@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "amogus_imposter",
+  "version": "${version}",
+
+  "name": "Amogus Imposter",
+  "description": "This is yet an other Amogus Imposter Mod,",
+  "authors": [
+    "Tsotciri"
+  ],
+  "contact": {
+    "homepage": "No Homepage :)",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT Licence",
+  "icon": "assets/amogus_imposter/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.tsotciri.amogusimp.AmogusImposter"
+    ],
+    "client": [
+      "net.tsotciri.amogusimp.AmogusImposterClient"
+    ]
+  },
+  "mixins": [
+    "amogus_imposter.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

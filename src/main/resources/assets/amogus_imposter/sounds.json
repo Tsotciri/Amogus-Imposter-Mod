@@ -1,0 +1,28 @@
+{
+  "imposter_walk_sound": {
+    "subtitle": "amogus_imposter.imposter_walk_sound",
+    "sounds": [
+      "amogus_imposter:walk"
+    ]
+  },
+  "imposter_ambient_sound": {
+    "subtitle": "amogus_imposter.imposter_ambient_sound",
+    "sounds": [
+      "amogus_imposter:ambient_1",
+      "amogus_imposter:ambient_2"
+    ]
+  },
+  "imposter_death_sound": {
+    "subtitle": "amogus_imposter.imposter_death_sound",
+    "sounds": [
+      "amogus_imposter:death"
+    ]
+  },
+  "imposter_hurt_sound": {
+    "subtitle": "amogus_imposter.imposter_hurt_sound",
+    "sounds": [
+      "amogus_imposter:hurt_1",
+      "amogus_imposter:hurt_2"
+    ]
+  }
+}
