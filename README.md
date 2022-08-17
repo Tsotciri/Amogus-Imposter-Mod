@@ -5,4 +5,7 @@ This mod requires the mods [GeckoLib](https://www.curseforge.com/minecraft/mc-mo
 
 **Semi-Important Information:**
 - In order to spawn the imposter you need to craft it like this:
-![Imposter Crafting Recipe](https://www.dropbox.com/s/u1zcsggq93wl4ds/imposter_crafting_recipe.png?dl=0,raw=false)
+<p align="center">
+  <img src="https://www.dropbox.com/s/u1zcsggq93wl4ds/imposter_crafting_recipe.png?dl=0e" width="350" title="hover text">
+  <img src="https://www.dropbox.com/s/u1zcsggq93wl4ds/imposter_crafting_recipe.png?dl=0" width="350" alt="accessibility text">
+</p>
