@@ -6,4 +6,4 @@ This mod requires the mods [GeckoLib](https://www.curseforge.com/minecraft/mc-mo
 **Semi-Important Information:**
 - In order to spawn the imposter you need to craft it like this:
 
-![Alt text](https://github.com/Tsotciri/Amogus-Imposter-Mod/blob/master/imposter_crafting_recipe.png?raw=true)
+  ![Alt text](https://github.com/Tsotciri/Amogus-Imposter-Mod/blob/master/imposter_crafting_recipe.png?raw=true)
